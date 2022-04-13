@@ -7,7 +7,7 @@
 
 1. `$ git clone https://github.com/modus-themes/gnome-terminal`.
 2. `$ cd gnome-terminal`
-3. Pick between Modus Operandi and Modus vivendi
+3. Pick between Modus Operandi and Modus Vivendi
 4. If you picked Modus Operandi follow the step below, if not, skip to step 7
 5. `./install-operandi.sh "Terminal profile name`" (you can create a new profile by opening the GNOME-Terminal preferences window, then click on the + symbol)
 6. If you picked Modus Vivendi follow the step below
