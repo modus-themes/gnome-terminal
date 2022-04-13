@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="https://raw.githubusercontent.com/modus-themes/modus-themes/main/assets/logo.png" width="80" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/modus-themes/modus-themes/main/assets/modus.png" width="80" alt="Logo"/><br/>
 	Modus themes for GNOME-Terminal
 </h3>
 
