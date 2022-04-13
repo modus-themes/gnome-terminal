@@ -21,3 +21,6 @@
 <h4> Modus Vivendi: </h4>
 
 ![GNOME-Terminal Modus Vivendi theme](assets/modus-vivendi.png)
+
+# Credits
+- [pacbru1260](https://github.com/pacbru1260)
