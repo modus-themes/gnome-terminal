@@ -14,13 +14,12 @@
 7. `./install-vivendi.sh "Terminal profile name`" (you can create a new profile by opening the GNOME-Terminal preferences window, then click on the + symbol)
 
 # Preview
-<h4> Modus Operandi: </h4>
+<h4 align="center">
+	Modus Vivendi & Modus Operandi
+</h4>
 
-![GNOME-Terminal Modus Operandi theme](assets/modus-operandi.png)
+![GNOME-Terminal](assets/gnome-terminal.png)
 
-<h4> Modus Vivendi: </h4>
-
-![GNOME-Terminal Modus Vivendi theme](assets/modus-vivendi.png)
 
 # Credits
 - [pacbru1260](https://github.com/pacbru1260)
